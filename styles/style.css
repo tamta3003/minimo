@@ -1,0 +1,221 @@
+.main-header{
+	width: 100%;
+}
+
+.cont{
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	text-transform: uppercase;
+	margin-top: 60px;
+	position: relative;
+	margin: 20px;
+}
+.cont h1 {
+    font-size: 30px;
+    font-family: 'Inconsolata',sans-serif;
+    position: absolute;
+    left: 7%;
+}
+.cont nav li {
+    display: inline-block;
+    padding: 0 60px;
+    font-family: 'Playfair Display',sans-serif;
+    color: #626262;
+    font-size: 14px;
+}
+.banner-img {
+    padding: 90px 7%;
+    }
+    .photodiary {
+    margin: 0 10%;
+}
+.photodiary .header {
+    font-family: 'Ubuntu',sans-serif;
+    text-transform: uppercase;
+    font-size: 14px;
+    color: #b4AD9E;
+}
+.photodiary h1 {
+    margin: 30px 0;
+    font-family: 'Playfair Display',sans-serif;
+    font-size: 30px;
+    color: #626262;
+}
+.photodiary h1 a {
+    color: #626262;
+}
+a {
+    text-decoration: none;
+}
+.photodiary .txt {
+    font-family: 'Playfair Display',sans-serif;
+    margin-right: 15%;
+    line-height: 24px;
+    color: #626262;
+}
+.txt {
+    line-height: 24px;
+    margin-top: 30px;
+}
+.cmnt {
+    font-family: 'Ubuntu',sans-serif;
+    color: #b4AD9E;
+    text-transform: uppercase;
+    margin: 30px 0;
+    margin-bottom: 90px;
+}
+.ncontainer {
+    width: 90%;
+    margin: 0 10%;
+}
+.cont{
+ margin: 20px 0px;
+}
+.ncontainer.article-cont {
+    display: flex;
+    width: 100%;
+}
+.article-item.left {
+    width: 40%;
+    margin-right: 50px;
+    display: inline-block;
+}
+.article-item.left img {
+    width: 100%;
+}
+.ncontainer .article-cont .article-item .article-text {
+    width: 100%;
+    padding-top: 60px;
+    position: relative;
+    top: -15px;
+}
+.article-cont .article-text p {
+    font-family: 'Ubuntu',sans-serif;
+    font-size: 14px;
+    color: #B4AD9E;
+    text-transform: uppercase;
+}
+.article-cont .article-text h1 {
+    margin-top: 4px;
+    font-size: 20px;
+    font-family: 'Playfair Display',sans-serif;
+    color: #626262;
+}
+ .article-text h1 a {
+    color: #626262;
+}
+ a{
+ 	text-decoration:none; 
+ }
+ .article-cont .article-text p {
+    font-family: 'Ubuntu',sans-serif;
+    font-size: 14px;
+    color: #B4AD9E;
+    text-transform: uppercase;
+}
+.article-item.right {
+    width: 40%;
+    margin-right: 20px;
+    display: inline-block;
+}
+.article-item.right img {
+    width: 100%;
+    }
+    .ncontainer .article-cont .article-item .article-text {
+    width: 100%;
+    padding-top: 60px;
+    position: relative;
+    top: -15px;
+}
+.article-cont .article-text p {
+    font-family: 'Ubuntu',sans-serif;
+    font-size: 14px;
+    color: #B4AD9E;
+    text-transform: uppercase;
+}
+.article-cont .article-text h1 {
+    margin-top: 4px;
+    font-size: 20px;
+    font-family: 'Playfair Display',sans-serif;
+    color: #626262;
+}
+.ncontainer.second {
+    margin-top: 120px;
+}
+.ncontainer .article-cont{
+    display: inline-block;
+    width: 100%;
+}
+.article-item.left img {
+    width: 100%;
+}
+.article-cont .article-text p {
+    font-family: 'Ubuntu',sans-serif;
+    font-size: 14px;
+    color: #B4AD9E;
+    text-transform: uppercase;
+}
+.sign-container {
+    background-color: #F0F0F0;
+    width: 100%;
+    padding-bottom: 80px;
+    margin-top: 80px;
+}
+.sign-container .header {
+    font-family: 'Playfair Display',sans-serif;
+    font-size: 30px;
+    padding: 80px 0;
+    text-align: center;
+}
+.subemail {
+    border-bottom: 1px solid black;
+    margin-left: 35%;
+    margin-right: 35%;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+}
+.sign-container div p {
+    padding-bottom: 20px;
+    font-family: 'Playfair Display',sans-serif;
+    font-size: 14px;
+    display: inline-block;
+}
+.subemail img {
+    width: 32px;
+    height: 17px;
+}
+.more {
+    text-align: center;
+    margin: 150px 0;
+}
+.load-more {
+    padding: 20px;
+    border: 1px solid #626262;
+    margin-left: 42%;
+    margin-right: 42%;
+    font-family: 'Playfair Display',sans-serif;
+    font-size: 20px;
+    color: #626262;
+    }
+    .footer h1 {
+    display: inline-block;
+    font-family: 'Playfair Display',sans-serif;
+    font-size: 14px;
+    padding: 40px 0;
+}
+.tp1 {
+    margin-left: 10%;
+}
+.tp2 {
+    margin-left: 5%;
+}
+.tp3{
+	margin-left: 50%;
+}
+.footer a img {
+    width: 20px;
+    height: 20px;
+    padding-left: 2%;
+}
